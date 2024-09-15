@@ -84,3 +84,11 @@ O uso do Padrão Facade neste contexto de login:
 Simplifica o controlador, que agora lida apenas com a fachada e não com múltiplos subsistemas.
 Desacopla os componentes, permitindo alterações internas sem impactar o controlador.
 Centraliza a lógica de login, facilitando manutenção e extensão.
+
+## Recursos Adicionais
+- Documentação do Firebase JWT: Firebase PHP-JWT
+- Livros:
+Design Patterns: Elements of Reusable Object-Oriented Software por Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides (Gang of Four).
+- Sites:
+Refactoring Guru
+SourceMaking
