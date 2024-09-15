@@ -1,0 +1,22 @@
+{
+    "name": "app/facade",
+    "description": "padrão facade",
+    "type": "jwt",
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    },
+    "require-dev": {
+        "firebase/php-jwt": "^6.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "backend/"
+        }
+    },
+    "authors": [
+        {
+            "name": "faustinopsy",
+            "email": "rodrigohipnose@gmail.com"
+        }
+    ]
+}
